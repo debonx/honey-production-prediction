@@ -9,7 +9,7 @@ So sad story guys, we should do something.
 - x: Years
 - y: Pounds of honey production
 
-![Honey Production Forecast](#)
+![Honey Production Forecast](https://github.com/huraji/honey-production-prediction/blob/master/honey-production.png)
 
 
 ## Enjoy and support!
